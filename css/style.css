@@ -201,6 +201,8 @@ h4, h5, h6, .h4, .h5, .h6 {
     padding-bottom: 6rem;
     background: url("../img/BabaIMG1.jpeg"), center center no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
 }
 
 .hero-header .hero-header-inner {
